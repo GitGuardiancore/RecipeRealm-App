@@ -1,4 +1,4 @@
-# alien-terminal
+# terminal of aliens
 
 > An autonomous AI agent that roleplays as an extraterrestrial intelligence observing humanity.
 
